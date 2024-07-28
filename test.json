@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/rank1falcon/swag/main/test.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/rank1falcon/swag/main/test.yaml",
+            "name": "Foo"
+        }
+    ]
+}
